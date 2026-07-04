@@ -24,7 +24,7 @@ A real-time chat application built using the **MERN Stack** (MongoDB, Express, R
 
 ## 🛠️ Tech Stack
 
-*   **Frontend:** React.js, HTML5, CSS3, JavaScript
+*   **Frontend:** React.js, HTML5, CSS3,TailwindCss JavaScript
 *   **Backend:** Node.js, Express.js
 *   **Database:** MongoDB Atlas (Cloud)
 *   **Real-time Protocol:** Socket.io
